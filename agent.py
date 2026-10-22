@@ -6,6 +6,7 @@ Invitation delivery is simulated; no real invitations are sent.
 import json
 import os
 import uuid
+import streamlit as st
 from datetime import datetime
 from pathlib import Path
 from zoneinfo import ZoneInfo
@@ -16,6 +17,11 @@ from scheduler import find_available_slots
 
 load_dotenv()
 API_KEY = os.getenv("GEMINI_API_KEY")
+if not API_KEY:
+    try:
+        API_KEY = st.secrets["GEMINI_API_KEY"]
+    except Exception:
+        API_KEY = None
 client = genai.Client(api_key=API_KEY) if API_KEY else None
 BOOKINGS_FILE = Path(__file__).with_name("bookings.json")
 
