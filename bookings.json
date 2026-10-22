@@ -1,0 +1,52 @@
+[
+  {
+    "booking_id": "a41de3fe-c4d1-480e-b56d-7e678680ca8f",
+    "date": "2026-10-23",
+    "start": "11:00",
+    "end": "11:45",
+    "room_id": 2,
+    "room_name": "Collaboration Room 2",
+    "attendee_ids": [
+      2,
+      6,
+      8,
+      15,
+      148
+    ],
+    "duration_minutes": 45,
+    "status": "confirmed",
+    "created_at": "2026-10-22T00:27:39"
+  },
+  {
+    "booking_id": "20c3281c-5bfe-4917-a194-37b1e959d5e8",
+    "date": "2026-10-23",
+    "start": "13:00",
+    "end": "13:50",
+    "room_id": 1,
+    "room_name": "Meeting Room 1",
+    "attendee_ids": [
+      1,
+      2,
+      3
+    ],
+    "duration_minutes": 50,
+    "status": "confirmed",
+    "created_at": "2026-10-22T21:33:03"
+  },
+  {
+    "booking_id": "3ac348e4-11df-4f6c-8a4c-f7fba1cec00c",
+    "date": "2026-10-22",
+    "start": "13:00",
+    "end": "13:45",
+    "room_id": 1,
+    "room_name": "Meeting Room 1",
+    "attendee_ids": [
+      1,
+      2,
+      3
+    ],
+    "duration_minutes": 45,
+    "status": "confirmed",
+    "created_at": "2026-10-22T22:03:39"
+  }
+]

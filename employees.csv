@@ -1,0 +1,151 @@
+employee_id,name,department,team,timezone
+1,Aarav Sharma 001,Design,Design,Asia/Kolkata
+2,Akash Sharma 002,Engineering,Engineering,Asia/Kolkata
+3,Aditya Sharma 003,Marketing,Marketing,Europe/London
+4,Arjun Sharma 004,Human Resources,Human Resources,Asia/Kolkata
+5,Ananya Sharma 005,Finance,Finance,Asia/Kolkata
+6,Aditi Sharma 006,Sales,Sales,Asia/Kolkata
+7,Diya Sharma 007,Operations,Operations,Asia/Kolkata
+8,Priya Sharma 008,Product,Product,Asia/Kolkata
+9,Rohan Sharma 009,Research,Research,Asia/Kolkata
+10,Rahul Sharma 010,Customer Support,Customer Support,Asia/Kolkata
+11,Sneha Sharma 011,Design,Design,Asia/Kolkata
+12,Kavya Sharma 012,Engineering,Engineering,Asia/Kolkata
+13,Ishaan Sharma 013,Marketing,Marketing,Asia/Kolkata
+14,Meera Sharma 014,Human Resources,Human Resources,Asia/Kolkata
+15,Kiran Sharma 015,Finance,Finance,Asia/Kolkata
+16,Nisha Sharma 016,Sales,Sales,Asia/Kolkata
+17,Varun Sharma 017,Operations,Operations,Asia/Kolkata
+18,Pooja Sharma 018,Product,Product,Asia/Kolkata
+19,Vikram Sharma 019,Research,Research,Asia/Kolkata
+20,Neha Sharma 020,Customer Support,Customer Support,Asia/Kolkata
+21,Sanjay Sharma 021,Design,Design,Asia/Kolkata
+22,Sahana Sharma 022,Engineering,Engineering,Asia/Kolkata
+23,Riya Sharma 023,Marketing,Marketing,Asia/Kolkata
+24,Dev Sharma 024,Human Resources,Human Resources,Asia/Kolkata
+25,Ira Sharma 025,Finance,Finance,Asia/Kolkata
+26,Manish Sharma 026,Sales,Sales,Asia/Kolkata
+27,Tanvi Sharma 027,Operations,Operations,Asia/Kolkata
+28,Nikhil Sharma 028,Product,Product,Asia/Kolkata
+29,Anika Sharma 029,Research,Research,Asia/Kolkata
+30,Ayaan Sharma 030,Customer Support,Customer Support,Asia/Kolkata
+31,Aarav Reddy 031,Design,Design,Asia/Kolkata
+32,Akash Reddy 032,Engineering,Engineering,Asia/Kolkata
+33,Aditya Reddy 033,Marketing,Marketing,Asia/Kolkata
+34,Arjun Reddy 034,Human Resources,Human Resources,Asia/Kolkata
+35,Ananya Reddy 035,Finance,Finance,Asia/Kolkata
+36,Aditi Reddy 036,Sales,Sales,Asia/Kolkata
+37,Diya Reddy 037,Operations,Operations,Asia/Kolkata
+38,Priya Reddy 038,Product,Product,Asia/Kolkata
+39,Rohan Reddy 039,Research,Research,Asia/Kolkata
+40,Rahul Reddy 040,Customer Support,Customer Support,Asia/Kolkata
+41,Sneha Reddy 041,Design,Design,Asia/Kolkata
+42,Kavya Reddy 042,Engineering,Engineering,Asia/Kolkata
+43,Ishaan Reddy 043,Marketing,Marketing,Asia/Kolkata
+44,Meera Reddy 044,Human Resources,Human Resources,Asia/Kolkata
+45,Kiran Reddy 045,Finance,Finance,Asia/Kolkata
+46,Nisha Reddy 046,Sales,Sales,Asia/Kolkata
+47,Varun Reddy 047,Operations,Operations,Asia/Kolkata
+48,Pooja Reddy 048,Product,Product,Asia/Kolkata
+49,Vikram Reddy 049,Research,Research,Asia/Kolkata
+50,Neha Reddy 050,Customer Support,Customer Support,Asia/Kolkata
+51,Sanjay Reddy 051,Design,Design,Asia/Kolkata
+52,Sahana Reddy 052,Engineering,Engineering,Asia/Kolkata
+53,Riya Reddy 053,Marketing,Marketing,Asia/Kolkata
+54,Dev Reddy 054,Human Resources,Human Resources,Asia/Kolkata
+55,Ira Reddy 055,Finance,Finance,Asia/Kolkata
+56,Manish Reddy 056,Sales,Sales,Asia/Kolkata
+57,Tanvi Reddy 057,Operations,Operations,Asia/Kolkata
+58,Nikhil Reddy 058,Product,Product,Asia/Kolkata
+59,Anika Reddy 059,Research,Research,Asia/Kolkata
+60,Ayaan Reddy 060,Customer Support,Customer Support,Asia/Kolkata
+61,Aarav Patel 061,Design,Design,Asia/Kolkata
+62,Akash Patel 062,Engineering,Engineering,Asia/Kolkata
+63,Aditya Patel 063,Marketing,Marketing,Asia/Kolkata
+64,Arjun Patel 064,Human Resources,Human Resources,Asia/Kolkata
+65,Ananya Patel 065,Finance,Finance,Asia/Kolkata
+66,Aditi Patel 066,Sales,Sales,Asia/Kolkata
+67,Diya Patel 067,Operations,Operations,Asia/Kolkata
+68,Priya Patel 068,Product,Product,Asia/Kolkata
+69,Rohan Patel 069,Research,Research,Asia/Kolkata
+70,Rahul Patel 070,Customer Support,Customer Support,Asia/Kolkata
+71,Sneha Patel 071,Design,Design,Asia/Kolkata
+72,Kavya Patel 072,Engineering,Engineering,Asia/Kolkata
+73,Ishaan Patel 073,Marketing,Marketing,Asia/Kolkata
+74,Meera Patel 074,Human Resources,Human Resources,Asia/Kolkata
+75,Kiran Patel 075,Finance,Finance,Asia/Kolkata
+76,Nisha Patel 076,Sales,Sales,Asia/Kolkata
+77,Varun Patel 077,Operations,Operations,Asia/Kolkata
+78,Pooja Patel 078,Product,Product,Asia/Kolkata
+79,Vikram Patel 079,Research,Research,Asia/Kolkata
+80,Neha Patel 080,Customer Support,Customer Support,Asia/Kolkata
+81,Sanjay Patel 081,Design,Design,Asia/Kolkata
+82,Sahana Patel 082,Engineering,Engineering,Asia/Kolkata
+83,Riya Patel 083,Marketing,Marketing,Asia/Kolkata
+84,Dev Patel 084,Human Resources,Human Resources,Asia/Kolkata
+85,Ira Patel 085,Finance,Finance,Asia/Kolkata
+86,Manish Patel 086,Sales,Sales,Asia/Kolkata
+87,Tanvi Patel 087,Operations,Operations,Asia/Kolkata
+88,Nikhil Patel 088,Product,Product,Asia/Kolkata
+89,Anika Patel 089,Research,Research,Asia/Kolkata
+90,Ayaan Patel 090,Customer Support,Customer Support,Asia/Kolkata
+91,Aarav Kumar 091,Design,Design,Asia/Kolkata
+92,Akash Kumar 092,Engineering,Engineering,Asia/Kolkata
+93,Aditya Kumar 093,Marketing,Marketing,Asia/Kolkata
+94,Arjun Kumar 094,Human Resources,Human Resources,Asia/Kolkata
+95,Ananya Kumar 095,Finance,Finance,Asia/Kolkata
+96,Aditi Kumar 096,Sales,Sales,Asia/Kolkata
+97,Diya Kumar 097,Operations,Operations,Asia/Kolkata
+98,Priya Kumar 098,Product,Product,Asia/Kolkata
+99,Rohan Kumar 099,Research,Research,Asia/Kolkata
+100,Rahul Kumar 100,Customer Support,Customer Support,Asia/Kolkata
+101,Sneha Kumar 101,Design,Design,Asia/Kolkata
+102,Kavya Kumar 102,Engineering,Engineering,Asia/Kolkata
+103,Ishaan Kumar 103,Marketing,Marketing,Asia/Kolkata
+104,Meera Kumar 104,Human Resources,Human Resources,Asia/Kolkata
+105,Kiran Kumar 105,Finance,Finance,Asia/Kolkata
+106,Nisha Kumar 106,Sales,Sales,Asia/Kolkata
+107,Varun Kumar 107,Operations,Operations,Asia/Kolkata
+108,Pooja Kumar 108,Product,Product,Asia/Kolkata
+109,Vikram Kumar 109,Research,Research,Asia/Kolkata
+110,Neha Kumar 110,Customer Support,Customer Support,Asia/Kolkata
+111,Sanjay Kumar 111,Design,Design,Asia/Kolkata
+112,Sahana Kumar 112,Engineering,Engineering,Asia/Kolkata
+113,Riya Kumar 113,Marketing,Marketing,Asia/Kolkata
+114,Dev Kumar 114,Human Resources,Human Resources,Asia/Kolkata
+115,Ira Kumar 115,Finance,Finance,Asia/Kolkata
+116,Manish Kumar 116,Sales,Sales,Asia/Kolkata
+117,Tanvi Kumar 117,Operations,Operations,Asia/Kolkata
+118,Nikhil Kumar 118,Product,Product,Asia/Kolkata
+119,Anika Kumar 119,Research,Research,Asia/Kolkata
+120,Ayaan Kumar 120,Customer Support,Customer Support,Asia/Kolkata
+121,Aarav Shah 121,Design,Design,Asia/Kolkata
+122,Akash Shah 122,Engineering,Engineering,Asia/Kolkata
+123,Aditya Shah 123,Marketing,Marketing,Asia/Kolkata
+124,Arjun Shah 124,Human Resources,Human Resources,Asia/Kolkata
+125,Ananya Shah 125,Finance,Finance,Asia/Kolkata
+126,Aditi Shah 126,Sales,Sales,Asia/Kolkata
+127,Diya Shah 127,Operations,Operations,Asia/Kolkata
+128,Priya Shah 128,Product,Product,Asia/Kolkata
+129,Rohan Shah 129,Research,Research,Asia/Kolkata
+130,Rahul Shah 130,Customer Support,Customer Support,Asia/Kolkata
+131,Sneha Shah 131,Design,Design,Asia/Kolkata
+132,Kavya Shah 132,Engineering,Engineering,Asia/Kolkata
+133,Ishaan Shah 133,Marketing,Marketing,Asia/Kolkata
+134,Meera Shah 134,Human Resources,Human Resources,Asia/Kolkata
+135,Kiran Shah 135,Finance,Finance,Asia/Kolkata
+136,Nisha Shah 136,Sales,Sales,Asia/Kolkata
+137,Varun Shah 137,Operations,Operations,Asia/Kolkata
+138,Pooja Shah 138,Product,Product,Asia/Kolkata
+139,Vikram Shah 139,Research,Research,Asia/Kolkata
+140,Neha Shah 140,Customer Support,Customer Support,Asia/Kolkata
+141,Sanjay Shah 141,Design,Design,Asia/Kolkata
+142,Sahana Shah 142,Engineering,Engineering,Asia/Kolkata
+143,Riya Shah 143,Marketing,Marketing,Asia/Kolkata
+144,Dev Shah 144,Human Resources,Human Resources,Asia/Kolkata
+145,Ira Shah 145,Finance,Finance,Asia/Kolkata
+146,Manish Shah 146,Sales,Sales,Asia/Kolkata
+147,Tanvi Shah 147,Operations,Operations,Asia/Kolkata
+148,Nikhil Shah 148,Product,Product,Asia/Kolkata
+149,Anika Shah 149,Research,Research,Asia/Kolkata
+150,Ayaan Shah 150,Customer Support,Customer Support,Asia/Kolkata
